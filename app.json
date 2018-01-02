@@ -1,0 +1,1715 @@
+{
+    "app_name": "encore",
+    "app_version": "0.1",
+    "app_author": "Yevgen",
+    "app_licence": "MIT MightyJS LLC",
+    "app_logo": "assets/dev/logo.png",
+    "pages": [
+        {
+            "id": "1",
+            "name": "Home",
+            "title": "Encore Home",
+            "link": "index.html",
+            "sections": [
+                {
+                    "type": "plain-text",
+                    "order": "0",
+                    "title": "WITH A STRONG FOCUS ON DETAIL",
+                    "description": "Encore Hospitality Carpet offers innovative design quality product and flexibility for the hospitality market segment providing both Public Space and Guest Room carpet. Encore Hospitality Carpet offers multiple manufacturing technologies that provide a comprehensive array of both running line and custom carpet styles to meet the rigorous demand of the hospitality market segment.\r\n",
+                    "image": ""
+                },
+                {
+                    "type": "parallax",
+                    "order": "1",
+                    "title": "LET US SHOW YOU THE ENCORE DIFFERENCE!",
+                    "description": "A family owned and operated carpet manufacturer since 1981. Encore’s commitment to the latest manufacturing capabilities, processes, and procedures allow customers more flexibility in providing innovative, design oriented carpet product for Public Space and Guest Room applications. Encore is poised to service both large and small projects competitively.\r\n",
+                    "image": "254-1.jpg"
+                },
+                {
+                    "type": "collections",
+                    "order": "2",
+                    "title": "WITH A STRONG FOCUS ON DETAIL",
+                    "description": "",
+                    "image": "",
+                    "items": []
+                },
+                {
+                    "type": "with-picture",
+                    "order": "3",
+                    "title": "AREA RUGS",
+                    "description": "Along, with our extensive array of broadloom options Encore offers area rugs as well. Being one of the largest area rug manufacturers in the country enables us to offer rugs in any shape, size, or construction. All of our running line products are available for various types of fabrication as well as customs.",
+                    "image": "area-rug.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "About us",
+            "title": "About Encore",
+            "link": "about-us.html",
+            "sections": [
+                {
+                    "name": "seo text",
+                    "title": "WITH A STRONG FOCUS ON DETAIL",
+                    "description": "Encore Hospitality Carpet offers innovative design quality product and flexibility for the hospitality market segment providing both Public Space and Guest Room carpet. Encore Hospitality Carpet offers multiple manufacturing technologies that provide a comprehensive array of both running line and custom carpet styles to meet the rigorous demand of the hospitality market segment.\r\n",
+                    "image-link": ""
+                },
+                {
+                    "name": "parallax",
+                    "title": "LET US SHOW YOU THE ENCORE DIFFERENCE!",
+                    "description": "A family owned and operated carpet manufacturer since 1981. Encore’s commitment to the latest manufacturing capabilities, processes, and procedures allow customers more flexibility in providing innovative, design oriented carpet product for Public Space and Guest Room applications. Encore is poised to service both large and small projects competitively.\r\n",
+                    "image-link": "254-1.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Products",
+            "dropdown": true,
+            "title": "Products page",
+            "link": "products.html",
+            "subpages": [],
+            "sections": []
+        },
+        {
+            "id": "4",
+            "name": "Technical",
+            "title": "Technical Page",
+            "link": "technical.html",
+            "sections": []
+        },
+        {
+            "id": "5",
+            "name": "Contact",
+            "title": "Contact Page",
+            "link": "contact.html",
+            "sections": []
+        }
+    ],
+    "collections": [
+        {
+            "order": "",
+            "title": "TABLEAU",
+            "slug": "TABLEAU",
+            "description": "We had such a great time at Boutique Design New York – BDNY and we are very excited to share our brand new collection and technology with you! Vintage Curiosity is designed for Tableau, Encore’s new 76 DPI dye injection technology. With unlimited color and unmatched clarity the design possibilities are limitless.",
+            "mainImage": "victoria.jpeg",
+            "categories": [
+                {
+                    "name": "VINTAGE CURIOSITY",
+                    "pdfLink": "",
+                    "items": [
+                        {
+                            "name": "VC2052 Reverie",
+                            "size": "90” x 60”",
+                            "url": "",
+                            "image": "collections/tableau/reverie.jpg"
+                        },
+                        {
+                            "name": "VC2051 Intrigue",
+                            "size": "36” x 36”",
+                            "url": "",
+                            "image": "collections/tableau/Intrigue.jpg"
+                        },
+                        {
+                            "name": "VC2050 Homage",
+                            "size": "144” x 144”",
+                            "url": "",
+                            "image": "collections/tableau/Homage.jpg"
+                        },
+                        {
+                            "name": "VC2049 Muse Rug",
+                            "size": "90” x 120”",
+                            "url": "",
+                            "image": "collections/tableau/Muse-Rug.jpg"
+                        },
+                        {
+                            "name": "VC2048 Menagerie",
+                            "size": "48” x 48”",
+                            "url": "",
+                            "image": "collections/tableau/Menagerie.jpg"
+                        },
+                        {
+                            "name": "VC2046 Chimera",
+                            "size": "48” x 48”",
+                            "url": "",
+                            "image": "collections/tableau/Chimera.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "LITHIA PARK",
+                    "pdfLink": "",
+                    "items": [
+                        {
+                            "name": "P0489 Falling Corridor",
+                            "size": "90” x 120”",
+                            "url": "",
+                            "image": "collections/tableau/Corridor.jpg"
+                        },
+                        {
+                            "name": "P0491 Alder",
+                            "size": "90” x 108”",
+                            "url": "",
+                            "image": "collections/tableau/Alder.jpg"
+                        },
+                        {
+                            "name": "P0490 Jackson",
+                            "size": "90” x 120”",
+                            "url": "",
+                            "image": "collections/tableau/Jackson.jpg"
+                        },
+                        {
+                            "name": "P0492 Laurel",
+                            "size": "90” x 60”",
+                            "url": "",
+                            "image": "collections/tableau/Laurel.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order": "",
+            "title": "DYE INJECTION",
+            "slug": "DYE-INJECTION",
+            "old_title": "Print",
+            "description": "With 16 colors and 625 dots per square inch, Encore can create virtually any pattern and match any color imaginable. In addition to great detail and an extensive color library, low minimums and fast lead times make our printed carpets an attractive option for your next project.",
+            "mainImage": "dyeinjection.jpeg",
+            "categories": [
+                {
+                    "title": "Grazia",
+                    "products": [
+                        {
+                            "id": "2",
+                            "name": "KM2140",
+                            "repeat": "71x138",
+                            "recolor": "10888",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2141",
+                            "repeat": "142x142",
+                            "recolor": "8942",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2139",
+                            "repeat": "71x83",
+                            "recolor": "14934",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2143",
+                            "repeat": "72x72",
+                            "recolor": "16738",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2142",
+                            "repeat": "142x94",
+                            "recolor": "16731",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2136",
+                            "repeat": "142x209",
+                            "recolor": "291",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "2",
+                            "name": "KM2137",
+                            "repeat": "72x108",
+                            "recolor": "285",
+                            "collection": "Grazia",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Capri",
+                    "products": [
+                        {
+                            "id": "1",
+                            "name": "KM2160",
+                            "repeat": "36x36",
+                            "recolor": "293",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2166",
+                            "repeat": "71x94",
+                            "recolor": "13274",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2159",
+                            "repeat": "144x144",
+                            "recolor": "646",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2161",
+                            "repeat": "72x160",
+                            "recolor": "654",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2162",
+                            "repeat": "71x87",
+                            "recolor": "652",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2163",
+                            "repeat": "106x142",
+                            "recolor": "1888",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "1",
+                            "name": "KM2164",
+                            "repeat": "36x36",
+                            "recolor": "650",
+                            "collection": "Capri",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "NoLita",
+                    "products": [
+                        {
+                            "id": "9",
+                            "name": "KM2108",
+                            "repeat": "71x142",
+                            "recolor": "300",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2107",
+                            "repeat": "71x53",
+                            "recolor": "299",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2110",
+                            "repeat": "72x48",
+                            "recolor": "301",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2111",
+                            "repeat": "36x36",
+                            "recolor": "302",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2112",
+                            "repeat": "36x36",
+                            "recolor": "303",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2113",
+                            "repeat": "72x136",
+                            "recolor": "304",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2114",
+                            "repeat": "72x72",
+                            "recolor": "305",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2115",
+                            "repeat": "142x89",
+                            "recolor": "7742",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "9",
+                            "name": "KM2116",
+                            "repeat": "71x106",
+                            "recolor": "7881",
+                            "collection": "NoLita",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Arabella",
+                    "products": [
+                        {
+                            "id": "5",
+                            "name": "KM2156",
+                            "repeat": "48x40",
+                            "recolor": "7880",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2158",
+                            "repeat": "144x90",
+                            "recolor": "255",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2152",
+                            "repeat": "48x36",
+                            "recolor": "7007",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2157",
+                            "repeat": "144x144",
+                            "recolor": "7897",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2155",
+                            "repeat": "72x204",
+                            "recolor": "7884",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2154",
+                            "repeat": "144x96",
+                            "recolor": "9625",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "5",
+                            "name": "KM2153",
+                            "repeat": "144x144",
+                            "recolor": "12260",
+                            "collection": "Arabella",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Shiloh",
+                    "products": [
+                        {
+                            "id": "8",
+                            "name": "KM2126",
+                            "repeat": "36x36",
+                            "recolor": "7878",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2127",
+                            "repeat": "35x43",
+                            "recolor": "341",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2128",
+                            "repeat": "71x126",
+                            "recolor": "7726",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2129",
+                            "repeat": "142x142",
+                            "recolor": "3115",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2131",
+                            "repeat": "71x71",
+                            "recolor": "344",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2132",
+                            "repeat": "47x47",
+                            "recolor": "345",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2133",
+                            "repeat": "47x35",
+                            "recolor": "346",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2134",
+                            "repeat": "24x24",
+                            "recolor": "347",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "8",
+                            "name": "KM2135",
+                            "repeat": "72x72",
+                            "recolor": "7727",
+                            "collection": "Shiloh",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cache",
+                    "products": [
+                        {
+                            "id": "4",
+                            "name": "KM2123",
+                            "repeat": "71x207",
+                            "recolor": "335",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2125",
+                            "repeat": "71x94",
+                            "recolor": "4033",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2124",
+                            "repeat": "94x130",
+                            "recolor": "4171",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2118",
+                            "repeat": "72x48",
+                            "recolor": "7004",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2120",
+                            "repeat": "71x106",
+                            "recolor": "13275",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2122",
+                            "repeat": "71x106",
+                            "recolor": "338",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2117",
+                            "repeat": "72x243",
+                            "recolor": "7015",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "4",
+                            "name": "KM2119",
+                            "repeat": "48x48",
+                            "recolor": "339",
+                            "collection": "Cache",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alla Moda",
+                    "products": [
+                        {
+                            "id": "3",
+                            "name": "KM2144",
+                            "repeat": "72x72",
+                            "recolor": "5006",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2145",
+                            "repeat": "71x106",
+                            "recolor": "3114",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2146",
+                            "repeat": "142x102",
+                            "recolor": "310",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2147",
+                            "repeat": "144x144",
+                            "recolor": "2976",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2148",
+                            "repeat": "71x232",
+                            "recolor": "10890",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2149",
+                            "repeat": "71x106",
+                            "recolor": "313",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "3",
+                            "name": "KM2150",
+                            "repeat": "36x24",
+                            "recolor": "314",
+                            "collection": "Alla Moda",
+                            "status": "thumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order": "",
+            "title": "Colortec",
+            "slug": "Colortec",
+            "description": "Using Zeftron solution dyed nylon and “Computer Yarn Placement”, individual yarns are digitally tufted with incredible detail and intricate patterns with detail down to one pixel per end. Colortec allows the designer to use up to 6 colors. This “cut-pile” product simulates the look of expensive woven axminster carpets at a much lower cost. ",
+            "mainImage": "colortech.jpeg",
+            "categories": [
+                {
+                    "title": "Papillon & Plume",
+                    "product": [
+                        {
+                            "id": "17",
+                            "name": "PL08",
+                            "repeat": "180x210",
+                            "recolor": "1114",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL06",
+                            "repeat": "90x168",
+                            "recolor": "1112",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL07",
+                            "repeat": "180x210",
+                            "recolor": "1116",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL05",
+                            "repeat": "90x168",
+                            "recolor": "1118",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL04",
+                            "repeat": "90x84",
+                            "recolor": "1120",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL03",
+                            "repeat": "90x84",
+                            "recolor": "1110",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL02",
+                            "repeat": "90x84",
+                            "recolor": "1122",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL01",
+                            "repeat": "90x84",
+                            "recolor": "1124",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL09",
+                            "repeat": "90x168",
+                            "recolor": "1126",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL10",
+                            "repeat": "90x168",
+                            "recolor": "1128",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "17",
+                            "name": "PL11",
+                            "repeat": "90x271.8333333333333",
+                            "recolor": "1130",
+                            "collection": "Papillon & Plume",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Deco",
+                    "products": [
+                        {
+                            "id": "6",
+                            "name": "DC01",
+                            "repeat": "180x180",
+                            "recolor": "1066",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "6",
+                            "name": "DC02",
+                            "repeat": "90x150",
+                            "recolor": "1068",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "6",
+                            "name": "DC03",
+                            "repeat": "90x150",
+                            "recolor": "1070",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "6",
+                            "name": "DC04",
+                            "repeat": "90x150",
+                            "recolor": "1072",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "6",
+                            "name": "DC05",
+                            "repeat": "90x150",
+                            "recolor": "1074",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "6",
+                            "name": "DC06",
+                            "repeat": "90x150",
+                            "recolor": "24004",
+                            "collection": "Deco",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "St. Tropez",
+                    "products": [
+                        {
+                            "id": "10",
+                            "name": "ST01",
+                            "repeat": "180x180",
+                            "recolor": "1197",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST02",
+                            "repeat": "180x180",
+                            "recolor": "1199",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST03",
+                            "repeat": "180x180",
+                            "recolor": "1201",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST04",
+                            "repeat": "90x180",
+                            "recolor": "1203",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST05",
+                            "repeat": "144x144",
+                            "recolor": "1205",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST06",
+                            "repeat": "90x90",
+                            "recolor": "1207",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST07",
+                            "repeat": "90x90",
+                            "recolor": "1209",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST08",
+                            "repeat": "180x180",
+                            "recolor": "1211",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "10",
+                            "name": "ST09",
+                            "repeat": "90x90",
+                            "recolor": "1213",
+                            "collection": "St. Tropez",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Versailles",
+                    "products": [
+                        {
+                            "id": "14",
+                            "name": "VS07",
+                            "repeat": "90x105",
+                            "recolor": "1096",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS08",
+                            "repeat": "90x150",
+                            "recolor": "1098",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS05",
+                            "repeat": "90x133.33333333333334",
+                            "recolor": "1094",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS06",
+                            "repeat": "180x180",
+                            "recolor": "1100",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS01",
+                            "repeat": "90x150",
+                            "recolor": "4221",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS02",
+                            "repeat": "180x145.83333333333334",
+                            "recolor": "1092",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS03",
+                            "repeat": "90x125",
+                            "recolor": "1102",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "14",
+                            "name": "VS04",
+                            "repeat": "90x62.5",
+                            "recolor": "1104",
+                            "collection": "Versailles",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Giverney",
+                    "products": [
+                        {
+                            "id": "11",
+                            "name": "GV01",
+                            "repeat": "90x150",
+                            "recolor": "1078",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "11",
+                            "name": "GV02",
+                            "repeat": "90x150",
+                            "recolor": "1080",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "11",
+                            "name": "GV03",
+                            "repeat": "90x150",
+                            "recolor": "1082",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "11",
+                            "name": "GV04",
+                            "repeat": "90x150",
+                            "recolor": "1084",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "11",
+                            "name": "GV05",
+                            "repeat": "90x150",
+                            "recolor": "1086",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "11",
+                            "name": "GV06",
+                            "repeat": "90x150",
+                            "recolor": "1088",
+                            "collection": "Giverney",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Left Bank & Provence",
+                    "products": [
+                        {
+                            "id": "12",
+                            "name": "LB04",
+                            "repeat": "90x221.66666666666666",
+                            "recolor": "1136",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "LB03",
+                            "repeat": "90x100.33333333333333",
+                            "recolor": "1138",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "LB02",
+                            "repeat": "72x144.66666666666666",
+                            "recolor": "1140",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "PV01",
+                            "repeat": "90x84",
+                            "recolor": "1132",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "PV02",
+                            "repeat": "90x84",
+                            "recolor": "1134",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "PV03",
+                            "repeat": "90x84",
+                            "recolor": "1142",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "PV04",
+                            "repeat": "90x84",
+                            "recolor": "1144",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "12",
+                            "name": "LB01",
+                            "repeat": "72x70",
+                            "recolor": "1146",
+                            "collection": "Left Bank & Provence",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Montmartre",
+                    "products": [
+                        {
+                            "id": "15",
+                            "name": "MT06",
+                            "repeat": "90x233",
+                            "recolor": "1361",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT08",
+                            "repeat": "90x233",
+                            "recolor": "1351",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT07",
+                            "repeat": "180x178.16666666666666",
+                            "recolor": "1349",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT04",
+                            "repeat": "180x180.5",
+                            "recolor": "1347",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT05",
+                            "repeat": "90x127",
+                            "recolor": "1353",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT03",
+                            "repeat": "90x157.5",
+                            "recolor": "1345",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT02",
+                            "repeat": "90x233",
+                            "recolor": "1357",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "15",
+                            "name": "MT01",
+                            "repeat": "90x150",
+                            "recolor": "1359",
+                            "collection": "Montmartre",
+                            "status": "thumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order": "",
+            "title": "Infinity",
+            "slug": "Infinity",
+            "description": "Known as the gold standard in guest rooms carpet, the Infinity product has proven itself as “the best there is”. Using Zeftron solution dyed nylon, as it’s name suggests the Infinity creates infinite amounts of pile heights and infinite design repeats at extremely fast speeds which allows Encore to service the guest room market quickly and competitively.",
+            "mainImage": "infinity.jpeg",
+            "categories": [
+                {
+                    "title": "Allure",
+                    "products": [
+                        {
+                            "id": "18",
+                            "name": "109",
+                            "repeat": "24x24",
+                            "recolor": "1443",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "118",
+                            "repeat": "24x24",
+                            "recolor": "1527",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "123",
+                            "repeat": "36x36",
+                            "recolor": "1618",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "103",
+                            "repeat": "48x48",
+                            "recolor": "1414",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "117",
+                            "repeat": "24x24",
+                            "recolor": "1366",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "119",
+                            "repeat": "48x48",
+                            "recolor": "4770",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "120",
+                            "repeat": "24x24",
+                            "recolor": "4779",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "104",
+                            "repeat": "48x48",
+                            "recolor": "3492",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "115",
+                            "repeat": "48x48",
+                            "recolor": "4759",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "124",
+                            "repeat": "48x48",
+                            "recolor": "5141",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "121",
+                            "repeat": "12x12",
+                            "recolor": "5541",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "122 ",
+                            "repeat": "36x36",
+                            "recolor": "5844",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6117",
+                            "repeat": "24x24",
+                            "recolor": "17756",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6103",
+                            "repeat": "48x48",
+                            "recolor": "17764",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6104",
+                            "repeat": "48x48",
+                            "recolor": "17796",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6123",
+                            "repeat": "36x36",
+                            "recolor": "17822",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6115",
+                            "repeat": "48x48",
+                            "recolor": "17831",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6109",
+                            "repeat": "24x24",
+                            "recolor": "17844",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6119",
+                            "repeat": "48x48",
+                            "recolor": "17851",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6118",
+                            "repeat": "24x24",
+                            "recolor": "17859",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6121",
+                            "repeat": "12x12",
+                            "recolor": "17871",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6122 ",
+                            "repeat": "36x36",
+                            "recolor": "17874",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6120",
+                            "repeat": "24x24",
+                            "recolor": "17886",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "18",
+                            "name": "6124",
+                            "repeat": "48x48",
+                            "recolor": "17894",
+                            "collection": "Allure",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Amuse",
+                    "products": [
+                        {
+                            "id": "19",
+                            "name": "126",
+                            "repeat": "36x31",
+                            "recolor": "7307",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "130",
+                            "repeat": "48x48",
+                            "recolor": "7389",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "127",
+                            "repeat": "36x72",
+                            "recolor": "7310",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "134",
+                            "repeat": "36x36",
+                            "recolor": "5133",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "125",
+                            "repeat": "36x48",
+                            "recolor": "5124",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "131",
+                            "repeat": "24x24",
+                            "recolor": "7393",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "129",
+                            "repeat": "48x48",
+                            "recolor": "7355",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "137",
+                            "repeat": "48x48",
+                            "recolor": "7380",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "135",
+                            "repeat": "36x30",
+                            "recolor": "3456",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "136",
+                            "repeat": "72x72",
+                            "recolor": "7425",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "132",
+                            "repeat": "36x36",
+                            "recolor": "11379",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "133",
+                            "repeat": "48x48",
+                            "recolor": "14419",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6125",
+                            "repeat": "36x48",
+                            "recolor": "17903",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6126",
+                            "repeat": "36x31",
+                            "recolor": "17913",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6127",
+                            "repeat": "36x72",
+                            "recolor": "17923",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6129",
+                            "repeat": "48x48",
+                            "recolor": "17932",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6137",
+                            "repeat": "48x48",
+                            "recolor": "17937",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6130",
+                            "repeat": "48x48",
+                            "recolor": "17950",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6131",
+                            "repeat": "24x24",
+                            "recolor": "17960",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6132",
+                            "repeat": "36x36",
+                            "recolor": "17962",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6133",
+                            "repeat": "48x48",
+                            "recolor": "17971",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6135",
+                            "repeat": "36x30",
+                            "recolor": "17984",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6134",
+                            "repeat": "36x36",
+                            "recolor": "17994",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "19",
+                            "name": "6136",
+                            "repeat": "72x72",
+                            "recolor": "17998",
+                            "collection": "Amuse",
+                            "status": "thumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order": "",
+            "title": "Enchanced loop",
+            "slug": "Enchanced-loop",
+            "description": "Using Zeftron solution dyed nylon, the Enhanced Loop uses varying pile heights to create more traditional subtle textures with limited design repeats. As a very cost effective option the enhanced has been a constant in the hospitality marketplace for years.",
+            "mainImage": "enhanced-loop.jpeg",
+            "categories": [
+                {
+                    "title": "Structure",
+                    "products": [
+                        {
+                            "id": "20",
+                            "name": "141 ",
+                            "repeat": "16x4",
+                            "recolor": "12049",
+                            "collection": "Structure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "20",
+                            "name": "139 ",
+                            "repeat": "8x20",
+                            "recolor": "7026",
+                            "collection": "Structure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "20",
+                            "name": "138 ",
+                            "repeat": "12x12",
+                            "recolor": "7058",
+                            "collection": "Structure",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "20",
+                            "name": "140",
+                            "repeat": "12x26",
+                            "recolor": "10055",
+                            "collection": "Structure",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Structure",
+                    "products": [
+                        {
+                            "id": "25",
+                            "name": "404",
+                            "repeat": "4x5",
+                            "recolor": "23590",
+                            "collection": "Continuum",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "25",
+                            "name": "400",
+                            "repeat": "2x2",
+                            "recolor": "23608",
+                            "collection": "Continuum",
+                            "status": "thumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order": "",
+            "title": "Colorpoint",
+            "slug": "Colorpoint",
+            "description": "Using Zeftron solution dyed nylon the Colorpoint creates “full gauge” density to create detailed patterns as opposed to “burying” ends which lowers the density and wear of the product. The use of up to 6 colors at “full gauge” makes Colorpoint an attractive choice for Public Space applications.",
+            "mainImage": "colorpoint.jpeg",
+            "categories": [
+                {
+                    "title": "Amuse Yeux",
+                    "products": [
+                        {
+                            "id": "23",
+                            "name": "148",
+                            "repeat": "72x96",
+                            "recolor": "7793",
+                            "collection": "Amuse Yeux",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "23",
+                            "name": "147",
+                            "repeat": "36x41.5",
+                            "recolor": "11087",
+                            "collection": "Amuse Yeux",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "23",
+                            "name": "149",
+                            "repeat": "72x108",
+                            "recolor": "12847",
+                            "collection": "Amuse Yeux",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Zero to Sixty",
+                    "products": [
+                        {
+                            "id": "24",
+                            "name": "C0207",
+                            "repeat": "72x72",
+                            "recolor": "18676",
+                            "collection": "Zero to Sixty",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "24",
+                            "name": "C0206",
+                            "repeat": "72x72",
+                            "recolor": "18682",
+                            "collection": "Zero to Sixty",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "24",
+                            "name": "C0208",
+                            "repeat": "72x111.2",
+                            "recolor": "18679",
+                            "collection": "Zero to Sixty",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "24",
+                            "name": "C0209",
+                            "repeat": "72x36",
+                            "recolor": "18681",
+                            "collection": "Zero to Sixty",
+                            "status": "thumb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Jovia",
+                    "products": [
+                        {
+                            "id": "26",
+                            "name": "C0579",
+                            "repeat": "90x129.6",
+                            "recolor": "24022",
+                            "collection": "Jovia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "26",
+                            "name": "C0578",
+                            "repeat": "180x110.4",
+                            "recolor": "24024",
+                            "collection": "Jovia",
+                            "status": "thumb"
+                        },
+                        {
+                            "id": "26",
+                            "name": "C0580",
+                            "repeat": "90x129.6",
+                            "recolor": "24026",
+                            "collection": "Jovia",
+                            "status": "thumb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
