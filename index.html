@@ -17,35 +17,37 @@
 
 <body>
   <!-- Dropdown menu -->
-  <ul id="dropdown1" class="dropdown-content">
+  <div id="magic-nav">
+       <!-- magic nav goes here -->
+  </div>
 
-    <li><a href="#!">one</a></li>
-    <li><a href="#!">two</a></li>
-    <li class="divider"></li>
-    <li><a href="#!">three</a></li>
-  </ul>
-  <!-- end of dropdown menu  -->
-  <nav class="custom-header blue darken-4" role="navigation">
-    <div class="nav-wrapper container air">
-      <a id="logo-container" href="#" class="brand-logo">
-        <!-- logo loads from json -->
-        <img class="responsive-img">
-      </a>
-      <ul id="navigation" class="right hide-on-med-and-down">
-        <!-- jq will parse data here automaticly -->
-      </ul>
-
-      <!-- <ul id="nav-mobile" class="side-nav">
+  <!-- slider  -->
+  <div class="slider">
+      <ul class="slides">
         <li>
-          <a href="#">Menu</a>
+          <img src="assets/dev/collection-headers/victoria.jpeg"> <!-- random image -->
+          <div class="caption center-align" style="margin-left: 30%; margin-top: 5%">
+              <h3 class="header left-align bold white-text">
+                  <b>TABLEAU</b>
+              </h3>
+              <p class="flow-text left-align  white-text">76 dpi dye injection technology
+                  <br>unlimited color | unmatched clarity</p>
+          </div>
+        </li>
+        <li>
+          <img src="assets/dev/Alllure_Style_0001.jpg"> <!-- random image -->
+          <div class="caption center-align" >
+              <h1 class="header center-align bold white-text">
+                  <b>ALLURE</b>
+              </h1>
+              <p class="flow-text center-align  white-text">the newest infinity collection from
+                 </p>
+                 <h1><b>ENCORE</b></h1>
+          </div>
         </li>
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse">
-        <i class="material-icons">menu</i>
-      </a> -->
     </div>
-  </nav>
-
+        
   <!-- preloader -->
 
   <div id="preloader" class="section container" style="height: 600px; padding-top: 200px;">
@@ -85,7 +87,7 @@
 
   <!-- Parallax section -->
 
-  <section id="parallax" class="section seo-text">
+  <section id="parallax" class="seo-text">
     <div class="parallax-container valign-wrapper">
       <div class="container">
         <div class="row">
@@ -114,11 +116,9 @@
           </div>
         </div>
       </div>
-
-      <div id="coll">
-
       </div>
 
+     
       <!-- Tableau -->
 
       <div id="TABLEAU" class="col s12 m7">
@@ -132,7 +132,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="tableau.html">Learn more ></a>
             </div>
           </div>
         </div>
@@ -148,7 +148,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="infinity.html">Learn more ></a>
             </div>
           </div>
           <div class="card-image">
@@ -171,7 +171,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="colorpoint.html">Learn more ></a>
             </div>
           </div>
         </div>
@@ -187,7 +187,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="enhanced-loop.html">Learn more ></a>
             </div>
           </div>
           <div class="card-image">
@@ -210,7 +210,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="colortec.html">Learn more ></a>
             </div>
           </div>
         </div>
@@ -226,7 +226,7 @@
               <p></p>
             </div>
             <div class="card-action">
-              <a href="#">Learn more ></a>
+              <a href="print.html">Learn more ></a>
             </div>
           </div>
           <div class="card-image">
@@ -250,33 +250,8 @@
     </div>
   </section>
 
-  <footer class="page-footer grey darken-3">
-    <div>
-      <div class="container center-align">
-        © Copyright
-        <div id="date" class="date"></div> - Encore Hospitality Carpets.
-
-      </div>
-    </div>
-  </footer>
-
-  <!--Import jQuery before materialize.js-->
-
-  <script type="text/javascript" src="js/bin/materialize.min.js"></script>
-
-  <script src="js/bin/init.js"></script>
-
-  <script type="text/javascript">
-  $(document).ready(function () {
-    $(".dropdown-button").dropdown();
-  });
-
-
-    var d = new Date();
-    var n = d.getFullYear();
-    document.getElementById("date").innerHTML = n;
-
-  </script>
+<div id="magic-footer"></div>
+  
 </body>
 
 </html>

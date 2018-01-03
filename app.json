@@ -102,37 +102,37 @@
                             "name": "VC2052 Reverie",
                             "size": "90” x 60”",
                             "url": "",
-                            "image": "collections/tableau/reverie.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2052.jpg"
                         },
                         {
                             "name": "VC2051 Intrigue",
                             "size": "36” x 36”",
                             "url": "",
-                            "image": "collections/tableau/Intrigue.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2051.jpg"
                         },
                         {
                             "name": "VC2050 Homage",
                             "size": "144” x 144”",
                             "url": "",
-                            "image": "collections/tableau/Homage.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2050.jpg"
                         },
                         {
                             "name": "VC2049 Muse Rug",
                             "size": "90” x 120”",
                             "url": "",
-                            "image": "collections/tableau/Muse-Rug.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2049.jpg"
                         },
                         {
                             "name": "VC2048 Menagerie",
                             "size": "48” x 48”",
                             "url": "",
-                            "image": "collections/tableau/Menagerie.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2048.jpg"
                         },
                         {
                             "name": "VC2046 Chimera",
                             "size": "48” x 48”",
                             "url": "",
-                            "image": "collections/tableau/Chimera.jpg"
+                            "image": "products/Vintage%20Curiosity/VC2046.jpg"
                         }
                     ]
                 },
@@ -144,25 +144,25 @@
                             "name": "P0489 Falling Corridor",
                             "size": "90” x 120”",
                             "url": "",
-                            "image": "collections/tableau/Corridor.jpg"
+                            "image": "products/Lithia%20Park/P0489.jpg"
                         },
                         {
                             "name": "P0491 Alder",
                             "size": "90” x 108”",
                             "url": "",
-                            "image": "collections/tableau/Alder.jpg"
+                            "image": "products/Lithia%20Park/P0491.jpg"
                         },
                         {
                             "name": "P0490 Jackson",
                             "size": "90” x 120”",
                             "url": "",
-                            "image": "collections/tableau/Jackson.jpg"
+                            "image": "products/Lithia%20Park/P0490.jpg"
                         },
                         {
                             "name": "P0492 Laurel",
                             "size": "90” x 60”",
                             "url": "",
-                            "image": "collections/tableau/Laurel.jpg"
+                            "image": "products/Lithia%20Park/P0492.jpg"
                         }
                     ]
                 }
@@ -654,7 +654,7 @@
             "categories": [
                 {
                     "title": "Papillon & Plume",
-                    "product": [
+                    "products": [
                         {
                             "id": "17",
                             "name": "PL08",
@@ -1585,7 +1585,7 @@
                     ]
                 },
                 {
-                    "title": "Structure",
+                    "title": "Continuum",
                     "products": [
                         {
                             "id": "25",

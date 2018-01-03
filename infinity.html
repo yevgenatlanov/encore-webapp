@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="css/custom.min.css" media="screen,projection" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="js/bin/processor.js"></script>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+    <!-- Dropdown menu -->
+    <div id="magic-nav">
+        <!-- magic nav goes here -->
+    </div>
+
+
+    <!-- preloader -->
+
+    <div id="preloader" class="section container" style="height: 600px; padding-top: 200px;">
+        <div class="row">
+            <div class="col s12 center-align">
+                <div class="preloader-wrapper big active">
+                    <div class="spinner-layer spinner-blue-only">
+                        <div class="circle-clipper left">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="gap-patch">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="circle-clipper right">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Head title -->
+    <section class="section title-area">
+        <div class="parallax-container valign-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col s12 center-align">
+                        <h3 class="header  align-center bold white-text">
+                            <b>Infinity Collection</b>
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+            <div class="parallax">
+                <img src="assets/dev/collection-headers/infinity.jpeg" alt="">
+            </div>
+        </div>
+    </section>
+
+    <!-- Video box -->
+    <main></main>
+    <!-- products -->
+
+
+
+    <div id="magic-footer"></div>
+    <script>
+        $(document).ready(function () {
+
+            $.getJSON("app.json", function (json) {
+                var coll = json.collections;
+                var title = $(".title-area b").html();
+                for (var c = 0; c < coll.length; c++) {
+                    var items = coll[c];
+                    if (items.slug === "Infinity") {
+                        var categories = items.categories;
+                        for (var it = 0; it <= categories.length; it++) {
+                            var category = categories[it];
+                       //     console.log(category.title);
+                            $("main").append(`<section id="${category.title}" class="collections"><div class="section"><div class="container"><div class="row"><div class="col s12 center-align"><h4 class="header">${category.title}</h4><hr class="line line-red"></div></div><div class="row items"></div></div></div></section>`);
+
+
+                           var products = category.products;
+                            console.log(products);
+                            for (var prod = 0; prod < products.length; prod++) {
+                                var item = products[prod];
+                                if (items.length != 0) {
+                                    $(".items").append(`<div data-id="${prod}" class="item"><div class="col s2"><div class="card"><div class="card-image parallax"><img class="materialboxed parallax" data-caption="${item.name}" src="http://enc.mightyjs.com/html5/commons/sim_tiled.php?simID=${item.recolor}&amp;w=150&amp;h=150&amp;scale=zoom"></div><div class="card-content"><p>${item.name}<br>${item.repeat}</p></div></div></div></div>`);
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -112,6 +112,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/dev\/Alllure_Style_0001.jpg": {
+		"ft": 16384,
+		"iS": 1635399,
+		"oA": 0,
+		"oAP": "\/assets\/dev\/Alllure_Style_0001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/dev\/area-rug.jpg": {
 		"ft": 16384,
 		"iS": 708490,
@@ -203,6 +213,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/dev\/Encore_BDNY_17_720.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/dev\/Encore_BDNY_17_720.mp4",
+		"oF": 0
+		},
 	"\/assets\/dev\/logo.png": {
 		"ft": 32768,
 		"iS": 7517,
@@ -233,281 +250,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin.html",
-		"oF": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/_all-skins.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/_all-skins.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/ab9483f65e7fd0f6c576404d749130e1.jpg": {
-		"ft": 16384,
-		"iS": 1323,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/ab9483f65e7fd0f6c576404d749130e1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/AdminLTE.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/AdminLTE.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/ajax-loader.gif": {
-		"ft": 4194304,
-		"iS": 1134,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/ajax-loader.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/app.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/app.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/backpack.base.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/backpack.base-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/backpack.bold.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/backpack.bold-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/bootstrap.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/bootstrap.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/bootstrap.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/bootstrap.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/crud.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/crud-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/crud.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/crud-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/dataTables.bootstrap.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/dataTables.bootstrap-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/dataTables.bootstrap.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/dataTables.bootstrap-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/fastclick.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/fastclick-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/font-awesome.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/font-awesome.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/form.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/form-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/form.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/form-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/ionicons.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/ionicons.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery-2.2.3.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery-2.2.3.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery.dataTables.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery.dataTables-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery.slimscroll.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/jquery.slimscroll.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/list.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/list-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/list.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/list-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/pace.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/pace.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/pace.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/pace.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/pnotify.custom.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/pnotify.custom.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/dev\/Providers __ Take.travel Admin_files\/pnotify.custom.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/dev\/Providers __ Take.travel Admin_files\/pnotify.custom.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
 		},
 	"\/assets\/dev\/ralaxropes.jpg": {
 		"ft": 16384,
@@ -548,6 +290,72 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/assets\/downloaded\/32-Cut-Pile.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/32-Cut-Pile.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/Cleaning-and-Care.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Cleaning-and-Care.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/cove-base-solid.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/cove-base-solid.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/DSC_0212.jpg": {
+		"ft": 16384,
+		"iS": 689427,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/DSC_0212.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/downloaded\/Installation-Instructions-LVT-Click.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Installation-Instructions-LVT-Click.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/Installation-Instructions-LVT-Glue-Down.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Installation-Instructions-LVT-Glue-Down.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/Installation-Instructions.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Installation-Instructions.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/Print-Infinity-Bases.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Print-Infinity-Bases.pdf",
+		"oF": 0
+		},
+	"\/assets\/downloaded\/Warranty.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/downloaded\/Warranty.pdf",
+		"oF": 0
 		},
 	"\/assets\/products\/Alla Moda\/10890_thumb.jpg": {
 		"ft": 16384,
@@ -1595,6 +1403,46 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/products\/Lithia Park\/P0489.jpg": {
+		"ft": 16384,
+		"iS": 948492,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Lithia Park\/P0489.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Lithia Park\/P0490.jpg": {
+		"ft": 16384,
+		"iS": 768662,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Lithia Park\/P0490.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Lithia Park\/P0491.jpg": {
+		"ft": 16384,
+		"iS": 734116,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Lithia Park\/P0491.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Lithia Park\/P0492.jpg": {
+		"ft": 16384,
+		"iS": 2174198,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Lithia Park\/P0492.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/products\/Montmartre\/1345_thumb.jpg": {
 		"ft": 16384,
 		"iS": 5761,
@@ -2175,6 +2023,66 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/products\/Vintage Curiosity\/VC2046.jpg": {
+		"ft": 16384,
+		"iS": 1335843,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2046.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Vintage Curiosity\/VC2048.jpg": {
+		"ft": 16384,
+		"iS": 877768,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2048.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Vintage Curiosity\/VC2049.jpg": {
+		"ft": 16384,
+		"iS": 579325,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2049.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Vintage Curiosity\/VC2050.jpg": {
+		"ft": 16384,
+		"iS": 385129,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2050.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Vintage Curiosity\/VC2051.jpg": {
+		"ft": 16384,
+		"iS": 727829,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2051.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/products\/Vintage Curiosity\/VC2052.jpg": {
+		"ft": 16384,
+		"iS": 1651776,
+		"oA": 0,
+		"oAP": "\/assets\/products\/Vintage Curiosity\/VC2052.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/products\/Zero to Sixty\/18676_thumb.jpg": {
 		"ft": 16384,
 		"iS": 9852,
@@ -2215,16 +2123,26 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/Christmas-Hat-PNG-Pic.png": {
-		"ft": 32768,
-		"iS": 148870,
+	"\/colorpoint.html": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Christmas-Hat-PNG-Pic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/colorpoint.html",
+		"oF": 0
+		},
+	"\/colortec.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/colortec.html",
+		"oF": 0
+		},
+	"\/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contact.html",
+		"oF": 0
 		},
 	"\/css\/custom.min.css": {
 		"aP": 1,
@@ -2245,6 +2163,13 @@
 		"oAP": "\/css\/materialize.min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/enhanced-loop.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/enhanced-loop.html",
+		"oF": 0
 		},
 	"\/fonts\/roboto\/Roboto-Bold.woff": {
 		"cB": 0,
@@ -2316,12 +2241,33 @@
 		"oAP": "\/fonts\/roboto\/Roboto-Thin.woff2",
 		"oF": 0
 		},
+	"\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/footer.html",
+		"oF": 0
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/index.html",
 		"oF": 1
+		},
+	"\/infinity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/infinity.html",
+		"oF": 0
+		},
+	"\/item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/item.html",
+		"oF": 0
 		},
 	"\/js\/animation.js": {
 		"ft": 64,
@@ -2728,6 +2674,41 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/LICENSE",
+		"oF": 0
+		},
+	"\/lvt.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/lvt.html",
+		"oF": 0
+		},
+	"\/nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/nav.html",
+		"oF": 0
+		},
+	"\/print.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/print.html",
+		"oF": 0
+		},
+	"\/products.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/products.html",
+		"oF": 0
+		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -3293,6 +3274,20 @@
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/tableau.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tableau.html",
+		"oF": 0
+		},
+	"\/technical.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/technical.html",
+		"oF": 0
 		}
 	},
 "hooks": [

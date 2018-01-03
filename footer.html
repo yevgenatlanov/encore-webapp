@@ -1,0 +1,28 @@
+<footer class="page-footer grey darken-3">
+    <div>
+        <div class="container center-align">
+            © Copyright
+            <div id="date" class="date"></div> - Encore Hospitality Carpets.
+
+        </div>
+    </div>
+</footer>
+
+<!--Import jQuery before materialize.js-->
+
+<script type="text/javascript" src="js/bin/materialize.min.js"></script>
+
+<script src="js/bin/init.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.materialboxed').materialbox();
+        $('.slider').slider({
+            indicators: false,
+        });
+    });
+    var d = new Date();
+    var n = d.getFullYear();
+    document.getElementById("date").innerHTML = n;
+
+</script>

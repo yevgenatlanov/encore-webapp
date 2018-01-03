@@ -1,0 +1,80 @@
+<ul id="dropdown1" class="dropdown-content" style="min-width: 190px;">
+    <li>
+        <a href="tableau.html">Tableau Collection</a>
+    </li>
+    <li>
+        <a href="infinity.html">Infinity Collection</a>
+    </li>
+    <li>
+        <a href="print.html">Print Collection</a>
+    </li>
+    <li>
+        <a href="colorpoint.html">Colorpoint Collection</a>
+    </li>
+    <li>
+        <a href="colortec.html">Colortec Collection</a>
+    </li>
+    <li>
+        <a href="enhanced-loop.html">Enhanced Loop</a>
+    </li>
+    <!-- <li>
+        <a href="#!">Luxury Vinyl Tile</a>
+    </li> -->
+</ul>
+<!-- end of dropdown menu  -->
+<nav class="custom-header blue darken-4" role="navigation">
+    <div class="nav-wrapper container air">
+        <a id="logo-container" href="#" class="brand-logo">
+            <!-- logo loads from json -->
+            <img class="responsive-img">
+        </a>
+        <ul id="navigation" class="right hide-on-med-and-down">
+            <!-- jq will parse data here automaticly -->
+
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="about-us.html">About us</a>
+            </li>
+            <li>
+                <a class="dropdown-button" data-activates="dropdown1" data-hover="true" href="products.html">Products</a>
+            </li>
+            <li>
+                <a href="technical.html">Technical</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li>
+                <a href="#">Menu</a>
+            </li>
+        </ul>
+        <a href="#" data-activates="nav-mobile" class="button-collapse">
+            <i class="material-icons">menu</i>
+        </a>
+    </div>
+</nav>
+
+<script>
+    $(document).ready(function () {
+        $.getJSON("../../app.json", function (json) {
+            $('.dropdown-button').dropdown({
+                inDuration: 300,
+                outDuration: 225,
+                constrainWidth: false, // Does not change width of dropdown to that of the activator
+                hover: true, // Activate on hover
+                gutter: 0, // Spacing from edge
+                belowOrigin: true, // Displays dropdown below the button
+                alignment: 'left', // Displays dropdown with edge aligned to the left of button
+                stopPropagation: false // Stops event propagation
+            }
+            );
+            $("#logo-container img").attr("src", json.app_logo);
+        });
+    });
+
+</script>
